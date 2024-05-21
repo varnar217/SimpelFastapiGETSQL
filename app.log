@@ -1,0 +1,14 @@
+INFO:root:All users retrieved
+INFO:httpx:HTTP Request: GET http://testserver/plays "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+INFO:root:User with ID 1 retrieved
+INFO:httpx:HTTP Request: GET http://testserver/plays/1 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://testserver/plays "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+INFO:root:User with ID 1 retrieved
+INFO:httpx:HTTP Request: GET http://testserver/plays/1 "HTTP/1.1 200 OK"
+INFO:root:All users retrieved
+INFO:httpx:HTTP Request: GET http://testserver/plays23 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+INFO:root:User with ID 1 retrieved
+INFO:httpx:HTTP Request: GET http://testserver/plays/1 "HTTP/1.1 200 OK"

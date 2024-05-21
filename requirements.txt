@@ -1,0 +1,8 @@
+docker-pycreds==0.4.0
+fastapi==0.110.3
+fastapi-socketio==0.0.10
+fastjsonschema==2.19.1
+pydantic==2.7.1
+pydantic_core==2.18.2
+
+uvicorn==0.29.0
